@@ -1,4 +1,4 @@
-# Products Page
+# Products Page 1
 
 {% api-method method="get" host="https://api.products.com" path="/v1/products/:id" %}
 {% api-method-summary %}
